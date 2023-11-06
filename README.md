@@ -82,7 +82,7 @@ spring:
 
 2）执行 `sql/create_table.sql` 中的数据库语句，自动创建库表
 
-3）启动项目，访问 `http://localhost:8101/api/doc.html` 即可打开接口文档
+3）启动项目，访问 `http://localhost:8090/api/doc.html` 即可打开接口文档
 
 ### Redis 分布式登录
 
